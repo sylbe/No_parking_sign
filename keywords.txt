@@ -1,0 +1,5 @@
+LedChase KEYWORD1
+turnOn   KEYWORD2
+turnOff  KEYWORD3
+animateLeds KEYWORD4
+
