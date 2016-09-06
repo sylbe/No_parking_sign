@@ -15,7 +15,7 @@
 
 
 //uint8_t ledPins[6] = {uint8_t(13), uint8_t(14), uint8_t(16), uint8_t(4), uint8_t(5), uint8_t(6)};
-byte myledPins[] = {2, 4,5,6,8,9};
+byte myledPins[] = {2, 4,5,6,8,9,10,11,12,13};
 //byte otherledPins[] = {6,8,9};
 
 
@@ -32,7 +32,7 @@ void setup()
   Serial.begin(115200);
   Serial.println("begin setup() V4");
 
-myleds.attach(myledPins,6);
+myleds.attach(myledPins,10);
 //otherleds.attach(otherledPins,3);
 
   delay(2000);
@@ -54,7 +54,7 @@ void loop()
 	//otherleds.animateLeds(1000, BLINKING, 50); //I want all the Leds blinking 50% on 50% off with a period of 1000ms (1s)
 
 	//myleds.animateLeds(3000, BLINKING, 30); //I want all the Leds blinking 50% on 50% off with a period of 1000ms (1s)
-	myleds.animateLeds(1000, CHASE_CYCLE, 50); //I want all the Leds blinking 50% on 50% off with a period of 1000ms (1s)
+	myleds.animateLeds(1000, CHASE_CYCLE, 9); //I want all the Leds blinking 50% on 50% off with a period of 1000ms (1s)
 
 }
 
