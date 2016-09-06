@@ -21,8 +21,8 @@
 								<option id="it.baeyens.arduino.compiler.cpp.sketch.option.incpath.2146216473" name="Include Paths (-I)" superClass="it.baeyens.arduino.compiler.cpp.sketch.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/core/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/libraries/Scheduler}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/libraries/Scheduler/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/libraries/LedChase}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/libraries/MicroDebug}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.cpp.sketch.input.1012640894" name="CPP source files" superClass="it.baeyens.arduino.compiler.cpp.sketch.input"/>
 							</tool>
@@ -30,8 +30,8 @@
 								<option id="it.baeyens.arduino.compiler.c.sketch.option.incpath.1607782496" name="Include Paths (-I)" superClass="it.baeyens.arduino.compiler.c.sketch.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/core/core}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/core/variant}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/libraries/Scheduler}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/libraries/Scheduler/src}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/libraries/LedChase}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/No_parking_sign/libraries/MicroDebug}&quot;"/>
 								</option>
 								<inputType id="it.baeyens.arduino.compiler.c.sketch.input.1099807948" name="C Source Files" superClass="it.baeyens.arduino.compiler.c.sketch.input"/>
 							</tool>
@@ -58,4 +58,5 @@
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
 	<storageModule moduleId="refreshScope"/>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>

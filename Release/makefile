@@ -9,7 +9,8 @@ RM := rm -f
 # All of the sources participating in the build are defined here
 -include sources.mk
 -include subdir.mk
--include libraries/Scheduler/src/subdir.mk
+-include libraries/MicroDebug/subdir.mk
+-include libraries/LedChase/subdir.mk
 -include core/core/subdir.mk
 -include objects.mk
 

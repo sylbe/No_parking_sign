@@ -10,8 +10,9 @@
  /Applications/sloeber.app/Contents/Eclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.13/cores/arduino/USBAPI.h \
  /Applications/sloeber.app/Contents/Eclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.13/cores/arduino/Arduino.h \
  /Applications/sloeber.app/Contents/Eclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.13/variants/standard/pins_arduino.h \
- /Applications/sloeber.app/Contents/Eclipse/arduinoPlugin/libraries/Scheduler/0.4.4/src/Scheduler.h \
- ../LedChase.h ../No_parking_sign.ino
+ /Users/sylvainbellier/Documents/Arduino/libraries/LedChase/LedChase.h \
+ /Users/sylvainbellier/Documents/Arduino/libraries/MicroDebug/LedDebug.h \
+ ../No_parking_sign.ino
 
 /Applications/sloeber.app/Contents/Eclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.13/cores/arduino/Arduino.h:
 
@@ -35,8 +36,8 @@
 
 /Applications/sloeber.app/Contents/Eclipse/arduinoPlugin/packages/arduino/hardware/avr/1.6.13/variants/standard/pins_arduino.h:
 
-/Applications/sloeber.app/Contents/Eclipse/arduinoPlugin/libraries/Scheduler/0.4.4/src/Scheduler.h:
+/Users/sylvainbellier/Documents/Arduino/libraries/LedChase/LedChase.h:
 
-../LedChase.h:
+/Users/sylvainbellier/Documents/Arduino/libraries/MicroDebug/LedDebug.h:
 
 ../No_parking_sign.ino:

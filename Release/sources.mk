@@ -37,5 +37,6 @@ CPP_DEPS :=
 SUBDIRS := \
 . \
 core/core \
-libraries/Scheduler/src \
+libraries/LedChase \
+libraries/MicroDebug \
 
